@@ -1,17 +1,3 @@
-# Learn MERN stack hacks
-
-<!-- ![MERN LOGOS](mern.jpg) -->
-
-> ❤️ **If you like this repository, please star, fork and contribute.** ❤️
-
-## 🤔 Why?
-
-I started a bootcamp at the University of Miami and wanted to have an organized repository of diagrams, references, and cheatsheets to reference whenever I forgot how something worked. The bootcamp focused on the MERN stack (MongoDB, Express, React, Node) so the materials organized in this repository will be primarily focused on this stack.
-
-## 🙌🏼 Want to Contribute?
-
-You are more than welcome to contribute and help improve this project. Just submit changes via pull request and I will review them before merging.
-
 
 ## 📚 Table of Contents
 
